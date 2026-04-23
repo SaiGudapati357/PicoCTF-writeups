@@ -1,1 +1,14 @@
-## Codebook
+## Challenge Name: CodeBook
+## Level Easy
+## Description: Run the Python Script code.py in the same directory as codebook.txt
+
+
+## Steps taken:
+1. Log into the PicoCTF webshell
+2. wget https://artifacts.picoctf.net/c/2/code.py
+3. wget https://artifacts.picoctf.net/c/2/codebook.txt
+4. Made sure code.py and codebook.txt were in the same directory by typing "ls"
+5. executed code.py by running python3 code.py
+6. Obtained and submitted the flag. 
+
+
